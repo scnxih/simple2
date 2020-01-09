@@ -1,3 +1,7 @@
 base 1
 base 2
+<<<<<<< e758f86c9ab510ed56c9baa06dc549c58fe02712
 master 1
+=======
+new 1
+>>>>>>> new 1
